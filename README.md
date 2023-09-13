@@ -16,9 +16,9 @@
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Light.svg">
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
-  <img align="center" alt="React" width="50" src="">
-  <img align="center" alt="React" width="50" src="">
-  <img align="center" alt="React" width="50" src="">
+  <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
+  <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img align="center" alt="React" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
   <img align="center" alt="React" width="50" src="">
 
 
