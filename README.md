@@ -23,6 +23,8 @@
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg">
   <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+
   
 
 
