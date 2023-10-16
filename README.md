@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Kauan!</strong>
+## 💻 Olá, meu nome é <strong>Kauan!</strong>
 
 > Desenvolvedor há 1 ano na empresa Crescer Tecnologia.
 
