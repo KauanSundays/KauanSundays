@@ -11,6 +11,7 @@
 
 ## 🚀 Minhas Skills
 <h2>Backend</h2>
+  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="MongoDB"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Light.svg" alt="MongoDB"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="c"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" alt="Javascript"/></code>
