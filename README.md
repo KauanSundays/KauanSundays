@@ -1,6 +1,6 @@
 ## 💻 Olá, meu nome é <strong>Kauan!</strong>
 
-> Desenvolvedor há 1 ano na empresa Crescer Tecnologia.
+> Desenvolvedor há 3 anos.
 
 🔭 Atuando em diversos projetos, ultilizando diversas tecnologias.
 
