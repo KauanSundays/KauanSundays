@@ -11,9 +11,9 @@
 
 ## 🚀 Minhas Skills
 <h2>Backend</h2>
-  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="MongoDB"/></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Light.svg" alt="MongoDB"/></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="c"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Light.svg" alt="Laravel"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt=""/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" alt="Javascript"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
